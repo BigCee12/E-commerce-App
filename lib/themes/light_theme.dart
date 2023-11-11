@@ -18,7 +18,7 @@ ThemeData lightMode = ThemeData(
       fontSize: 18,
       fontWeight: FontWeight.w600,
     ), // Text color of the title
-    contentTextStyle: TextStyle(
+    contentTextStyle: TextStyle( 
       color: Colors.grey.shade800,
       fontSize: 18,
       fontWeight: FontWeight.w600,
